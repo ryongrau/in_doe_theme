@@ -1,0 +1,41 @@
+div#logo {
+  height: 180px;
+  background-color: #0a2244;
+  text-align: center;
+}
+
+footer {
+  background-color: #0a2244;
+  color: #FFFFFF;
+}
+
+footer a:link{
+  color: #fff;
+}
+
+.sf-menu.sf-style-space a {
+  border: 0px;
+}
+
+div.nav {
+  margin: 0px;
+  padding-bottom: 25px;
+}
+
+.nav .block {
+  background-color: #333333;
+}
+
+.sf-menu.sf-style-space a:hover {
+  background-color: #0a2244;
+}
+
+body {
+  background-image: url(http://all-hdwallpapers.com/wallpapers/background-textures-db_textures.Jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+div#page {
+  background-color: #fff;
+}
