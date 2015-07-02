@@ -78,35 +78,10 @@ div .branding-elements, .menu-wrapper {
   margin-left: 0px;
   margin-right: 0px;
 }
-/* ----------------------------- SEARCH --------------------------------------------------- */
 
-#searchimage{
-	padding:20px;
-	position:relative;
-}
+/*-----------------------------------------------------------------------------------*/
 
-#searchimage > .block-inner {
-	margin: 0px;
-	width:100%;
-	height: 240px;
-	background-image: url(http://in.rgrau/sites/in.doe.gov/files/styles/large/public/CI_Panel.jpg);
-	
-	background-repeat: no-repeat;
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
-}
-
-#search-block-form{
-	position:absolute;
-	bottom:40px;
-}
-
-.container-inline{
-	margin: auto 0;
-}
-
+img{}
 
 
 
