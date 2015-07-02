@@ -53,7 +53,7 @@ a .sf-depth-1 .active {
 
 body {
   font-family: 'Trebuchet MS', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  background-image: url(http://all-hdwallpapers.com/wallpapers/background-textures-db_textures.Jpg);
+  background-image: url('images/background-texture.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -79,6 +79,9 @@ div .branding-elements, .menu-wrapper {
   margin-right: 0px;
 }
 
+/*-----------------------------------------------------------------------------------*/
+
+img{}
 
 
 
