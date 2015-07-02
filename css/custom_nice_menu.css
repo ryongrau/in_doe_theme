@@ -1,0 +1,40 @@
+
+
+/* -------------------SUPERFISH NAV / MENU BLOCK------------------- */
+
+.sf-menu.sf-style-space a {
+  border: 0px;
+}
+
+div.nav {
+  margin: 0px;
+  padding-bottom: 25px;
+}
+
+.nav .block {
+  background-color: #333;
+
+	border-top-width: 4px;
+	border-bottom-width: 4px;
+	border-bottom-style:solid;
+	border-top-style:solid;
+	border-top-color: #aaa;
+	border-bottom-color: #111;
+}
+a .sf-depth-1 .active {
+ 	 color: #f3c727;
+ }
+#block-superfish-1 > a:active{
+	color: #f3c727;
+}
+ 
+.sf-menu.sf-style-space a:hover {
+  background-color: #0a2244;
+  color: #97C5EB;
+}
+
+.nice-menu a {
+	color:#666;
+	font-weight:800;
+	
+}

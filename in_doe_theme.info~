@@ -1,8 +1,8 @@
 
 ;----------// Theme Information
 
-  name        = IN Custom Theme - AT Subtheme
-  description = Theme developed for IN by EITS Web Support.
+  name        = IN_DOE Custom Theme 2.0 - AT Subtheme
+  description = Refined Theme developed for IN by EITS Web Support.
   core        = 7.x
   base theme  = adaptivetheme
   release     = 7.x-3.x

@@ -478,3 +478,4 @@ project = "adaptivetheme"
 datestamp = "1395575059"
 
   stylesheets[screen][] = css/custom.css
+stylesheets[all][] = custom-nice-menu.css
